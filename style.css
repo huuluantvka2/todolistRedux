@@ -1,0 +1,18 @@
+*{
+    padding:0;
+    margin:0;
+}
+.bg-card{
+    background-color: #EAE0B7;
+    color:#836434;
+    font-size: 18px;
+}
+.border-card{
+    border:1px solid #EAE0B7;
+}
+label{
+    font-weight: bold;
+}
+.badge{
+    cursor: pointer;
+}
